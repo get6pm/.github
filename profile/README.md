@@ -6,7 +6,7 @@
     Manage your expense seamlessly
     <br />
     <br />
-    <a href="https://t.me/+GxxX3uOH-4tkZDll">Telegram</a>
+    <a href="https://discord.gg/RsANf429aQ">Discord</a>
     ·
     <a href="https://6pm.ai">Website</a>
     ·
